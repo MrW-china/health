@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/health_backend/health_backend.iml" filepath="$PROJECT_DIR$/health_backend/health_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health_service_provider/health_service_provider.iml" filepath="$PROJECT_DIR$/health_service_provider/health_service_provider.iml" />
+    </modules>
+  </component>
+</project>
